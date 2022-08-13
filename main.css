@@ -2,6 +2,9 @@
   padding: 0;
   margin: 0 auto;
 }
+li {
+  list-style: none;
+}
 
 .home_body {
   width: 1250px;
